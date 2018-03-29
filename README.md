@@ -17,4 +17,4 @@ python3 ./main.py
 ```
 
 # 截图
-![ScreenShot](https://github.com/KKRainbow/NewsClient/raw/master/img/result.jpg)
+![ScreenShot](https://raw.githubusercontent.com/KKRainbow/LeetcodeCNMigrate/master/img/result.jpg)
